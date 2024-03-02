@@ -1,1 +1,0 @@
-import{_ as e,c as t,o}from"./chunks/framework.84TDCN6B.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"zh-CN/guide/configuration.md","filePath":"zh-CN/guide/configuration.md"}'),a={name:"zh-CN/guide/configuration.md"};function n(r,i,c,s,d,f){return o(),t("div")}const _=e(a,[["render",n]]);export{u as __pageData,_ as default};
